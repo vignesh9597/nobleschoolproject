@@ -1,0 +1,32 @@
+{
+  "classhours": [
+    {
+      "id": 1,
+      "first": "maths",
+      "second": "science",
+      "third": "history",
+      "fourth": "ped"
+    },
+    {
+      "first": "social",
+      "second": "maths",
+      "third": "science",
+      "fourth": "hindi",
+      "id": 2
+    },
+    {
+      "first": "tamil",
+      "second": "science",
+      "third": "history",
+      "fourth": "hindi",
+      "id": 3
+    },
+    {
+      "first": "nil",
+      "second": "maths",
+      "third": "hindi",
+      "fourth": "science",
+      "id": 4
+    }
+  ]
+}

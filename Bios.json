@@ -1,0 +1,36 @@
+{
+  "Bios": [
+    {
+      "Fisrtname": "Vignesh",
+      "Fathersname": "Venkadasamy",
+      "Age": "23",
+      "Address": "madurai",
+      "phone": 9597464887,
+      "id": 1
+    },
+    {
+      "Fisrtname": "Siva",
+      "Fathersname": "ganesh",
+      "Age": "30",
+      "Address": "virudhunahar",
+      "phone": "6789678900",
+      "id": 2
+    },
+    {
+      "Fisrtname": "Mani",
+      "Fathersname": "kandan",
+      "Age": "23",
+      "Address": "madurai",
+      "phone": "678967906",
+      "id": 3
+    },
+    {
+      "Fisrtname": "Manikandan",
+      "Fathersname": "siva",
+      "Age": "23",
+      "Address": "madurai",
+      "phone": "678967906",
+      "id": 4
+    }
+  ]
+}

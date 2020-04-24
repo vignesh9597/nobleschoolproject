@@ -1,0 +1,36 @@
+{
+  "Bioses": [
+    {
+      "Fisrtname": "Vignesh",
+      "Fathersname": "Venkadasamy",
+      "Age": "22",
+      "Qualification": "MSC math",
+      "Subject": "maths",
+      "id": 1
+    },
+    {
+      "Fisrtname": "Mani",
+      "Fathersname": "kandan",
+      "Age": "23",
+      "Qualification": "Bsc physics",
+      "Subject": "science",
+      "id": 2
+    },
+    {
+      "Fisrtname": "Mani",
+      "Fathersname": "ganesh",
+      "Age": "23",
+      "Qualification": "M phill",
+      "Subject": "maths",
+      "id": 3
+    },
+    {
+      "Fisrtname": "bala",
+      "Fathersname": "ganesh",
+      "Age": "25",
+      "Qualification": "Bsc Chemistry",
+      "Subject": "chemistry",
+      "id": 4
+    }
+  ]
+}
